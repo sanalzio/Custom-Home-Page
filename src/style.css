@@ -150,3 +150,10 @@ html, body {
 	transition: all 0.1s;
 } */
 /** Text Animations4 **/
+
+::-moz-selection {
+  background: rgba(255,255,255,0.2);
+}
+::selection {
+  background: rgba(255,255,255,0.2);
+}
